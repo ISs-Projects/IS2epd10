@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="IS2">
+            <file>file:/Users/davgutavi/Documents/netbeans_workspace/IS2EPD9/src/controlador/ClienteController.java</file>
+            <file>file:/Users/davgutavi/Documents/netbeans_workspace/IS2EPD9/src/controlador/FacturaController.java</file>
+            <file>file:/Users/davgutavi/Documents/netbeans_workspace/IS2EPD9/src/modelo/persistencia/FacturaDAO.java</file>
+            <file>file:/Users/davgutavi/Documents/netbeans_workspace/IS2EPD9/src/modelo/ClienteModel.java</file>
+            <file>file:/Users/davgutavi/Documents/netbeans_workspace/IS2EPD9/src/modelo/persistencia/ClienteDAO.java</file>
+            <file>file:/Users/davgutavi/Documents/netbeans_workspace/IS2EPD9/src/modelo/FacturaModel.java</file>
+        </group>
+        <group/>
+    </open-files>
+</project-private>
