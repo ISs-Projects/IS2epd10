@@ -24,4 +24,4 @@ hs_err_pid*
 replay_pid*
 
 # No ignored
-!/recursos
+*mysql-connector-java-8.0.15.jar
