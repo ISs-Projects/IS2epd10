@@ -16,14 +16,14 @@ import java.sql.*;
  */
 public class Persistencia {
         // XAMPP
-    private static String login = "david";
-    private static String password = "david";
+    private static String login = "root";
+    private static String password = "";
 //    
     // COMMUNITY
 //    private static String login = "root";
 //    private static String password = "root1234";
 
-    private static String url = "jdbc:mysql://localhost:3306/facturacion?zeroDateTimeBehavior=convertToNull&serverTimezone=UTC";
+    private static String url = "jdbc:mysql://192.168.1.140:3306/facturacion?zeroDateTimeBehavior=convertToNull&serverTimezone=UTC";
     
     private static Connection conexion=null;
     
